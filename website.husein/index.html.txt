@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Profil Muhammad Husein</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Website Profil</h1>
+</header>
+
+<div class="container">
+
+<div class="profile">
+
+<img src="gambar/avatar.jpg" class="avatar">
+
+<h2>Muhammad Husein</h2>
+<p>Mahasiswa Teknik Elektro Universitas UWIKA</p>
+
+</div>
+
+<div class="about">
+<h3>Tentang Saya</h3>
+<p>
+Saya adalah mahasiswa Teknik Elektro di Universitas Wijaya Kusuma Surabaya (UWIKA).
+Saya memiliki minat dalam bidang teknologi, listrik, dan pemrograman.
+</p>
+</div>
+
+<div class="info">
+<h3>Informasi Pribadi</h3>
+
+<ul>
+<li><b>Nama :</b> Muhammad Husein</li>
+<li><b>Tempat Lahir :</b> Sidoarjo</li>
+<li><b>Pendidikan :</b> Teknik Elektro - Universitas UWIKA</li>
+</ul>
+
+</div>
+
+<div class="contact">
+
+<h3>Kontak</h3>
+
+<ul>
+<li><b>No HP :</b> 05745745889</li>
+<li><b>Email :</b> muhusein31@gmail.com</li>
+</ul>
+
+</div>
+
+</div>
+
+<footer>
+<p>© 2026 Muhammad Husein</p>
+</footer>
+
+</body>
+</html>
